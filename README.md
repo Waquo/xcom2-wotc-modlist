@@ -24,6 +24,6 @@ Modular Cannons. https://xcom.fandom.com/wiki/Breakthroughs_and_Inspirations#Arm
 
 # How to use
 - Download and unzip the alternative mod launcher. No install necessary. https://github.com/X2CommunityCore/xcom2-launcher
-- Open the launcher, go to the "Profiles" tab and import the wotc-modlist.txt from this repository.
+- Open the launcher, go to the "Profiles" tab and import the wotc-modlist.txt from this repository. https://github.com/Waquo/xcom2-wotc-modlist/blob/main/wotc-modlist.txt
 - Use the alternative mod launcher to launch XCOM 2.
 - Thanks to the Mod Config Menu, mod settings are found in the game settings, look at the bottom center.
